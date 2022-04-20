@@ -1,5 +1,5 @@
 
-# About the Social Inclusion project
+# About the Social Inclusion Project
 The Social Inclusion project is linked to Canada’s Anti-Racism Strategy and the Centre for Gender, Diversity and Inclusion.  This project aims to bring together key statistical information on the inclusion (or exclusion) of ethnocultural groups and immigrants in Canada.
 
 This one-stop data tool introduces a framework to organize and access data on social inclusion for ethnocultural groups and immigrants in Canada and responds to an increased demand for statistical indicators to support evidence-based decision-making aimed at building a more equitable and inclusive society.
