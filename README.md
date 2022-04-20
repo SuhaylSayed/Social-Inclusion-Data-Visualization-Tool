@@ -27,3 +27,6 @@ Link : https://www150.statcan.gc.ca/t1/tbl1/en/cv!recreate-nonTraduit.action?pid
 # Dashboard Images
 ![image](https://user-images.githubusercontent.com/40481691/164300255-1192deae-fbd4-490f-8728-4e86756eb858.png)
 
+![image](https://user-images.githubusercontent.com/40481691/164300783-f2fa6bf7-7939-4e31-9ef3-a0855cbbcf97.png)
+
+
