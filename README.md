@@ -20,4 +20,5 @@ The dashboard makes use of unreleased data. Once the data is officially released
 Title : Police-reported hate crime, by type of motivation, Canada (selected police services)
 
 Table: 35-10-0066-01 (formerly CANSIM 252-0092)
+
 Link : https://www150.statcan.gc.ca/t1/tbl1/en/cv!recreate-nonTraduit.action?pid=3510006601&selectedNodeIds=2D3%2C2D4%2C2D5%2C2D6%2C2D7%2C2D8%2C2D9%2C2D10%2C2D11&checkedLevels=0D1%2C1D1%2C1D2&refPeriods=20160101%2C20200101&dimensionLayouts=layout2%2Clayout3%2Clayout2&vectorDisplay=false&request_locale=en
