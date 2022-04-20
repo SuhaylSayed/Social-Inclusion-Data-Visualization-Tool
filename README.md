@@ -29,4 +29,8 @@ Link : https://www150.statcan.gc.ca/t1/tbl1/en/cv!recreate-nonTraduit.action?pid
 
 ![image](https://user-images.githubusercontent.com/40481691/164300783-f2fa6bf7-7939-4e31-9ef3-a0855cbbcf97.png)
 
+![image](https://user-images.githubusercontent.com/40481691/164301417-de4aaa37-a551-4075-981b-98b2961a7829.png)
+
+![image](https://user-images.githubusercontent.com/40481691/164301721-ffc8c870-c8a9-4d8b-a6a5-a8c8a6d9a186.png)
+
 
