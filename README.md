@@ -13,7 +13,7 @@ The number of sociodemographic characteristics in each tab and dropdown menu var
 
 # Notes about the Data
 
-The dashboard makes use of unreleased data. Once the data is officially released for public viewing it will be linked below via the StatsCan website. Images of the tool shown below contain either released or synthetic data.
+The dashboard makes use of unreleased data. Once the data is officially released for public viewing it will be linked below via the StatsCan website. Images of the tool shown contain either released or synthetic data.
 
 
 # Released Data
