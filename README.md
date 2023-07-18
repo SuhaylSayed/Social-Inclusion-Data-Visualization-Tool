@@ -6,6 +6,9 @@ This one-stop data tool introduces a framework to organize and access data on so
 
 The social inclusion indicators used in this tool are categorized into 11 themes relevant to the analysis of social inclusion. They are drawn from a variety of data sources, including the Census of Population, social and health surveys, and other administrative databases produced at Statistics Canada.
 
+The official publication of this tool can be viewed at:
+https://www150.statcan.gc.ca/n1/pub/71-607-x/soc-eng.htm
+
 # About the Data Visualization Tool 
 The data visualization tool is an RShiny application that generates interactive visualizations using disaggregated demographic data. The data visualization tool lets users customize charts to view the number or percentage of a variety of social inclusion indicators for five categories: 1) groups designated as visible minorities, 2) visible minority by immigration status, 3) sex/gender, 4) geography, and 5) time series analysis. Users can select a category from the tabs at the top of the tool.
 
